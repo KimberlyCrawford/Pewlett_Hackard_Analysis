@@ -62,3 +62,6 @@ SELECT * FROM dept_manager;
 SELECT * FROM salaries;
 SELECT * FROM dept_emp;
 SELECT * FROM titles;
+
+
+
