@@ -16,9 +16,9 @@ Deliverable 1: The Number of Retiring Employees by Title
 
 ![Retiring_Employees_by_Title.png](https://github.com/KimberlyCrawford/Pewlett_Hackard_Analysis/blob/main/Retiring_Employees_by_Title.png)
 
-
-
 Deliverable 2: The Employees Eligible for the Mentorship Program
+
+![Mentorship_Eligibility.png](https://github.com/KimberlyCrawford/Pewlett_Hackard_Analysis/blob/main/Mentorship_Eligibility.png)
 
 # Summary
 
@@ -27,4 +27,4 @@ The Number of Retiring Employees by Title table above holds all the titles of cu
 The COUNT() function was used to create a final table that has the number of retirement-age employees by most recent job title.
 
 ## Deliverable 2
-The Employees Eligible for the Mentorship Program
+The Employees Eligible for the Mentorship Program table above holds the current employees who were born between January 1, 1965 and December 31, 1965 that are eligible for the Mentorship Program.
