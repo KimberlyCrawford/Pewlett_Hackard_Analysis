@@ -14,7 +14,7 @@ Software: PostgreSQL 11 using pgAdmin 4 as code editor to write and execute quer
 # Results
 Deliverable 1: The Number of Retiring Employees by Title
 
-Image here
+![Retiring_Employees_by_Title.png](https://github.com/KimberlyCrawford/Pewlett_Hackard_Analysis/blob/main/Retiring_Employees_by_Title.png)
 
 
 
