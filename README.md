@@ -28,3 +28,5 @@ The COUNT() function was used to create a final table that has the number of ret
 
 ## Deliverable 2
 The Employees Eligible for the Mentorship Program table above holds the current employees who were born between January 1, 1965 and December 31, 1965 that are eligible for the Mentorship Program.
+
+#### Module 7, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
